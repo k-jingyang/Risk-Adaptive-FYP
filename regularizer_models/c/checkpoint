@@ -1,0 +1,2 @@
+model_checkpoint_path: "c_regularizer.ckpt"
+all_model_checkpoint_paths: "c_regularizer.ckpt"
