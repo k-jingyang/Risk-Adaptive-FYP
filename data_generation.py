@@ -441,7 +441,7 @@ if generate_test_data:
 
 duration_for_each = 700 # this should be the same as the duration in risk_q_learning
 
-stock_symbol = 'bac'
+stock_symbol = 'SPY'
 window_size = 25 # change to 10, was 50
 assert(resume_from_window >= window_size)
 trading_patterns_dir = './trading_patterns/'
