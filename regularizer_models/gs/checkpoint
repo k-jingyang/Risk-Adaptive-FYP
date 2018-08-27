@@ -1,0 +1,2 @@
+model_checkpoint_path: "gs_regularizer.ckpt"
+all_model_checkpoint_paths: "gs_regularizer.ckpt"
